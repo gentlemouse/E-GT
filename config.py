@@ -1,0 +1,8 @@
+OPENAI_KEY = ''
+DEEPSEEK_KEY = ''
+KIMI_KEY = ''
+ZHIPU_KEY = ''
+DOUBAO_KEY = ''
+XUNFEI_KEY = ''
+HUNYUAN_KEY = ''
+BAIDU_KEY = ''
